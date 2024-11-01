@@ -8,6 +8,17 @@ table {
     margin-right: auto;
 }
 
+button {
+    width: 100%;
+    padding: 20px 40px;
+    background-color: maroon;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+
 input[type="button"] {
     width: 100%;
     padding: 20px 40px;
